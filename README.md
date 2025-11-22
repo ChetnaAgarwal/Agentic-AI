@@ -4,9 +4,8 @@ Agentic AI course by Andrew Ng
 AGENTIC AI COURSE NOTES by Chetna Agarwal
 DeepLearning.AI
 
-===========================================
-MODULE 1: INTRODUCTION TO AGENTIC WORKFLOWS
-===========================================
+### MODULE 1: INTRODUCTION TO AGENTIC WORKFLOWS
+
 
 1. WELCOME (2 mins)
 
